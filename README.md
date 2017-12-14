@@ -1,8 +1,7 @@
-# 99 Motéis #
+# Responsive Test Project #
 
-Landing page criadas com as tecnologias
+Ferramenta criada com as tecnologias
 
 * GULP Task Runner
 * HTML5 Boilerplate
 * Sass
-* PHP Mailer
