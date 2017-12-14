@@ -1,0 +1,34 @@
+@media only screen and (min-width : 100px) and (max-width : 760px) {
+ @-webkit-keyframes prog {
+  0% {
+   width:0;
+ }
+ 100% {
+ width: 100%;
+}
+}
+ @keyframes prog {
+  0% {
+   width:0;
+ }
+ 100% {
+ width: 100%;
+}
+}
+@-webkit-keyframes cont {
+  0% {
+   height:0;
+ }
+ 100% {
+ height: 100%;
+}
+}
+@keyframes cont {
+  0% {
+   height:0;
+ }
+ 100% {
+ height: 100%;
+}
+}
+}
